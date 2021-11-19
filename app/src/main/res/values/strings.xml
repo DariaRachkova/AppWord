@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AppWord</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="game">Игра</string>
+    <string name="regulations">Правила</string>
+    <string name="regulations_text">1.Игроки по очереди нажимают на кнопки Игрок 1 и Игрок 2.\n2.Нужно назвать слово на букву, которая появилась на экране.\n3.Проигрывает тот Игрок, который не смог назвать слово на выпавшую ему букву.\n4.Чтобы усложнить игру, попробуйте называть не просто слова, а предметы в комнате, названия которых начинаются с этих букв.</string>
+    <string name="to_back">К игре</string>
+    <string name="game_item">Игра</string>
+    <string name="regulations_item">Правила</string>
+    <string name="randomize_button_one">Игрок 1</string>
+    <string name="randomize_button_two">Игрок 2</string>
+    <string name="start">Старт</string>
+    <string name="next_button">Поделиться\nигрой</string>
+    <string name="menu">Меню</string>
+    <string name="menu_item">Меню</string>
+    <string name="next_icon">Поделиться игрой</string>
+    <string name="direction">Правила</string>
+    <string name="direction_icon">Правила</string>
+</resources>

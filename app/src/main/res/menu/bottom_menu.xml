@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/game"
+        android:enabled="true"
+        android:title="@string/game"
+        android:icon="@drawable/game_icon"/>
+
+    <item
+        android:id="@+id/regulations"
+        android:title="@string/direction_icon"
+        android:icon="@drawable/regulations_icon"/>
+
+    <item
+        android:id="@+id/next"
+        android:title="@string/next_icon"
+        android:icon="@drawable/next_icon"/>
+
+
+
+</menu>
